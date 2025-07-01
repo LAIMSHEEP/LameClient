@@ -1,0 +1,9 @@
+{
+  "graphics": "fast",
+  "renderDistance": 4,
+  "particles": "minimal",
+  "maxFps": 60,
+  "useVbo": true,
+  "vsync": true,
+  "guiScale": 2
+}
